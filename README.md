@@ -1,6 +1,6 @@
 # Hi 👋, I'm Varun Krishnan
 
-Frontend Team Lead | Full-Stack Developer | UI/UX Designer
+Full-Stack Developer | UI/UX Designer
 
 I build scalable SaaS products, no-code platforms, workflow automation systems, and AI-powered applications.
 
