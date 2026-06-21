@@ -1,37 +1,26 @@
 # Hi 👋, I'm Varun Krishnan
 
-### Frontend Team Lead | Full-Stack Developer | UI/UX Designer
+Frontend Team Lead | Full-Stack Developer | UI/UX Designer
 
-Passionate about building scalable web applications, SaaS products, no-code platforms, and AI-powered solutions.
+I build scalable SaaS products, no-code platforms, workflow automation systems, and AI-powered applications.
 
-🚀 Currently leading frontend development at Enextcloud Technologies, where I design and build enterprise applications used by businesses and teams.
+## 🚀 Tech Stack
 
-### 💻 Tech Stack
-- React.js
-- TypeScript
-- JavaScript
-- Node.js
-- Express.js
-- MongoDB
-- MySQL
-- Tailwind CSS
-- Azure AI & OpenAI
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,mysql,azure,tailwind,redux,vite,figma,git,github,vscode&perline=8" />
+</p>
 
-### 🎯 What I Enjoy Building
-- Modern Web Applications
-- SaaS Platforms
-- No-Code/Low-Code Solutions
-- Workflow Automation
-- AI-Powered Products
-- Design Systems
+## 🎯 Currently Focused On
 
-### 🌱 Currently Learning
-- System Design
-- AI Agents & RAG
-- Advanced Full-Stack Architecture
+- Frontend Architecture
+- Full-Stack Development
+- AI & RAG Applications
+- SaaS Product Engineering
+- Technical Leadership
 
-### 📫 Connect With Me
+## 📫 Connect
+
 - LinkedIn: www.linkedin.com/in/varun-krishnan-v
-- Email: varunkrishnan0001@gmail.com
+- Email: varunkrishnan.tech@gmail.com
 
 > Building products that solve real-world problems.
