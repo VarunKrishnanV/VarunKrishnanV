@@ -7,7 +7,7 @@ I build scalable SaaS products, no-code platforms, workflow automation systems, 
 ## 🚀 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,mysql,azure,tailwind,redux,vite,figma,git,github,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,redux,nodejs,express,mongodb,mysql,azure,vite,webpack,git,github,figma,vscode&perline=10" />
 </p>
 
 ## 🎯 Currently Focused On
@@ -21,6 +21,6 @@ I build scalable SaaS products, no-code platforms, workflow automation systems, 
 ## 📫 Connect
 
 - LinkedIn: www.linkedin.com/in/varun-krishnan-v
-- Email: varunkrishnan.tech@gmail.com
+- Email: varunkrishnan0001@gmail.com
 
 > Building products that solve real-world problems.
